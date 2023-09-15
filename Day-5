@@ -32,6 +32,5 @@ int main() {
     } else {
         cout << "There is no second largest element in the array." << endl;
     }
-
     return 0;
 }
