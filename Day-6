@@ -24,6 +24,5 @@ int main() {
     } else {
         cout << "Middle element of the array: " << arr[middleIndex] << endl;
     }
-
     return 0;
 }
